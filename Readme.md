@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ксения Цвиркун](https://up.htmlacademy.ru/adaptive/8/user/218984).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Зубов].
 
 ---
 
